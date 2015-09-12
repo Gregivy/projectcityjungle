@@ -8,6 +8,6 @@
    Tabris.js Team
   </author>
   <plugin name="com.eclipsesource.tabris.maps" spec="https://github.com/eclipsesource/tabris-maps.git">
-        <variable name="API_KEY_FOR_ANDROID" value="AIzaSyA6OBVWXtpHBeRC-jUqFG2NjEig_sJMYSg" />
+        <variable name="API_KEY_FOR_ANDROID" value="" />
   </plugin>
 </widget>
