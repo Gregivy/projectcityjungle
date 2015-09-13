@@ -1,5 +1,5 @@
 {
-  "name": "tabris-getting-started",
+  "name": "com.cityjungle",
   "description": "Tabris.js - Hello, World!",
   "main": "hello.js",
   "dependencies": {
