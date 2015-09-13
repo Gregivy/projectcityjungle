@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-packageName="com.cityjungle" android-versionCode="1" id="com.cityjungle" version="1.0.0">
-  <name>HelloWorld</name>
+  <name>CityJungle</name>
   <description>
-   A sample Tabris.js application.
+   Tabris testing
   </description>
-  <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
-   Tabris.js Team
+  <author email="gpoi@mail.ru" href="https://vk.com/gregp">
+   Plyusch Gregory
   </author>
   <plugin name="com.eclipsesource.tabris.maps" spec="https://github.com/eclipsesource/tabris-maps.git">
         <variable name="API_KEY_FOR_ANDROID" value="" />
